@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162128790576",
+    "project_id": "orangeevents-75ed2",
+    "storage_bucket": "orangeevents-75ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162128790576:android:1b8423a820d3f2451a19f5",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQW_iC7aNDyxAoV2lAsy971XfVOe9nx1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
